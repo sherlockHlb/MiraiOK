@@ -1,6 +1,8 @@
 # 目前不会花费很多精力维护OK，希望有dalao来接坑
 ## caused by 开学&miraigo
 
+# 想维护miraiOK的后浪们联系我，应该能帮到一些
+[点击链接加入群聊](https://jq.qq.com/?_wv=1027&k=6no42ozo)
 <div align="center">
    <img width="160" src="assets/mirai.png" alt="logo"></br>
 
